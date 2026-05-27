@@ -1,0 +1,14 @@
+D:\unik\cw\DAL\bin\Release\net8.0\DAL.deps.json
+D:\unik\cw\DAL\bin\Release\net8.0\DAL.runtimeconfig.json
+D:\unik\cw\DAL\bin\Release\net8.0\DAL.dll
+D:\unik\cw\DAL\bin\Release\net8.0\DAL.pdb
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.csproj.AssemblyReference.cache
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.AssemblyInfoInputs.cache
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.AssemblyInfo.cs
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.dll
+D:\unik\cw\DAL\obj\Release\net8.0\refint\DAL.dll
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.pdb
+D:\unik\cw\DAL\obj\Release\net8.0\DAL.genruntimeconfig.cache
+D:\unik\cw\DAL\obj\Release\net8.0\ref\DAL.dll
